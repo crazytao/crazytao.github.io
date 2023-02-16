@@ -104,4 +104,4 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/crazytao/crazytao.github.io.git
-  branch: main
+  branch: master
